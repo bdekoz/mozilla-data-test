@@ -1,0 +1,180 @@
+{
+    "paintTimingfirst-contentful-paint": "616",
+    "largestContentfulPaintloadTime": "591",
+    "largestContentfulPaintrenderTime": "629",
+    "lcp_element": "\"\"https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/d98464a8-6f13-4a70-a729-1ab1a3b7c18b._CR0,0,1200,628_SX430_QL70_.jpg\"\"",
+    "redirectStart": "0",
+    "redirectEnd": "0",
+    "fetchStart": "0",
+    "domainLookupStart": "4",
+    "connectStart": "4",
+    "requestStart": "8",
+    "responseStart": "11",
+    "domInteractive": "801",
+    "domComplete": "1000",
+    "loadEventEnd": "1027",
+    "SpeedIndex": "813",
+    "VisualComplete85": "800",
+    "PerceptualSpeedIndexProgress": [
+        {
+            "timestamp": "0",
+            "percent": "0"
+        },
+        {
+            "timestamp": "640",
+            "percent": "86"
+        },
+        {
+            "timestamp": "680",
+            "percent": "88"
+        },
+        {
+            "timestamp": "880",
+            "percent": "97"
+        },
+        {
+            "timestamp": "960",
+            "percent": "98"
+        },
+        {
+            "timestamp": "1000",
+            "percent": "98"
+        },
+        {
+            "timestamp": "1440",
+            "percent": "99"
+        },
+        {
+            "timestamp": "1480",
+            "percent": "99"
+        },
+        {
+            "timestamp": "1640",
+            "percent": "99"
+        },
+        {
+            "timestamp": "1760",
+            "percent": "99"
+        },
+        {
+            "timestamp": "1840",
+            "percent": "99"
+        },
+        {
+            "timestamp": "1920",
+            "percent": "100"
+        },
+        {
+            "timestamp": "1960",
+            "percent": "100"
+        }
+    ],
+    "ContentfulSpeedIndexProgress": [
+        {
+            "timestamp": "0",
+            "percent": "0"
+        },
+        {
+            "timestamp": "640",
+            "percent": "93"
+        },
+        {
+            "timestamp": "680",
+            "percent": "96"
+        },
+        {
+            "timestamp": "880",
+            "percent": "97"
+        },
+        {
+            "timestamp": "960",
+            "percent": "97"
+        },
+        {
+            "timestamp": "1000",
+            "percent": "97"
+        },
+        {
+            "timestamp": "1440",
+            "percent": "98"
+        },
+        {
+            "timestamp": "1480",
+            "percent": "99"
+        },
+        {
+            "timestamp": "1640",
+            "percent": "99"
+        },
+        {
+            "timestamp": "1760",
+            "percent": "99"
+        },
+        {
+            "timestamp": "1840",
+            "percent": "100"
+        },
+        {
+            "timestamp": "1920",
+            "percent": "100"
+        },
+        {
+            "timestamp": "1960",
+            "percent": "100"
+        }
+    ],
+    "VisualProgress": [
+        {
+            "timestamp": "0",
+            "percent": "0"
+        },
+        {
+            "timestamp": "640",
+            "percent": "58"
+        },
+        {
+            "timestamp": "680",
+            "percent": "58"
+        },
+        {
+            "timestamp": "880",
+            "percent": "94"
+        },
+        {
+            "timestamp": "960",
+            "percent": "95"
+        },
+        {
+            "timestamp": "1000",
+            "percent": "96"
+        },
+        {
+            "timestamp": "1440",
+            "percent": "96"
+        },
+        {
+            "timestamp": "1480",
+            "percent": "96"
+        },
+        {
+            "timestamp": "1640",
+            "percent": "96"
+        },
+        {
+            "timestamp": "1760",
+            "percent": "96"
+        },
+        {
+            "timestamp": "1840",
+            "percent": "98"
+        },
+        {
+            "timestamp": "1920",
+            "percent": "98"
+        },
+        {
+            "timestamp": "1960",
+            "percent": "100"
+        }
+    ]
+}

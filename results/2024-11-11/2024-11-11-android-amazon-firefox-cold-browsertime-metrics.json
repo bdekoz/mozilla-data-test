@@ -1,0 +1,168 @@
+{
+    "paintTimingfirst-contentful-paint": "342",
+    "largestContentfulPaintloadTime": "436",
+    "largestContentfulPaintrenderTime": "469",
+    "lcp_element": "\"\"https://m.media-amazon.com/images/I/61GCKHqbcxL._AC_SX444_SY639_QL65_.jpg\"\"",
+    "redirectStart": "0",
+    "redirectEnd": "0",
+    "fetchStart": "-2",
+    "domainLookupStart": "9",
+    "connectStart": "10",
+    "requestStart": "18",
+    "responseStart": "25",
+    "domInteractive": "384",
+    "domComplete": "670",
+    "loadEventEnd": "674",
+    "SpeedIndex": "439",
+    "VisualComplete85": "506",
+    "PerceptualSpeedIndexProgress": [
+        {
+            "timestamp": "0",
+            "percent": "0"
+        },
+        {
+            "timestamp": "385",
+            "percent": "94"
+        },
+        {
+            "timestamp": "403",
+            "percent": "95"
+        },
+        {
+            "timestamp": "468",
+            "percent": "98"
+        },
+        {
+            "timestamp": "501",
+            "percent": "98"
+        },
+        {
+            "timestamp": "560",
+            "percent": "98"
+        },
+        {
+            "timestamp": "867",
+            "percent": "99"
+        },
+        {
+            "timestamp": "901",
+            "percent": "99"
+        },
+        {
+            "timestamp": "918",
+            "percent": "99"
+        },
+        {
+            "timestamp": "934",
+            "percent": "99"
+        },
+        {
+            "timestamp": "959",
+            "percent": "100"
+        },
+        {
+            "timestamp": "993",
+            "percent": "100"
+        }
+    ],
+    "ContentfulSpeedIndexProgress": [
+        {
+            "timestamp": "0",
+            "percent": "0"
+        },
+        {
+            "timestamp": "385",
+            "percent": "90"
+        },
+        {
+            "timestamp": "403",
+            "percent": "91"
+        },
+        {
+            "timestamp": "468",
+            "percent": "92"
+        },
+        {
+            "timestamp": "501",
+            "percent": "92"
+        },
+        {
+            "timestamp": "560",
+            "percent": "92"
+        },
+        {
+            "timestamp": "867",
+            "percent": "98"
+        },
+        {
+            "timestamp": "901",
+            "percent": "98"
+        },
+        {
+            "timestamp": "918",
+            "percent": "98"
+        },
+        {
+            "timestamp": "934",
+            "percent": "99"
+        },
+        {
+            "timestamp": "959",
+            "percent": "99"
+        },
+        {
+            "timestamp": "993",
+            "percent": "100"
+        }
+    ],
+    "VisualProgress": [
+        {
+            "timestamp": "0",
+            "percent": "0"
+        },
+        {
+            "timestamp": "385",
+            "percent": "66"
+        },
+        {
+            "timestamp": "403",
+            "percent": "66"
+        },
+        {
+            "timestamp": "468",
+            "percent": "98"
+        },
+        {
+            "timestamp": "501",
+            "percent": "98"
+        },
+        {
+            "timestamp": "560",
+            "percent": "98"
+        },
+        {
+            "timestamp": "867",
+            "percent": "96"
+        },
+        {
+            "timestamp": "901",
+            "percent": "99"
+        },
+        {
+            "timestamp": "918",
+            "percent": "99"
+        },
+        {
+            "timestamp": "934",
+            "percent": "99"
+        },
+        {
+            "timestamp": "959",
+            "percent": "99"
+        },
+        {
+            "timestamp": "993",
+            "percent": "100"
+        }
+    ]
+}

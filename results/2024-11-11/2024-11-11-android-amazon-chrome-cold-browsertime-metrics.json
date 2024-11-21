@@ -1,0 +1,108 @@
+{
+    "paintTimingfirst-contentful-paint": "583",
+    "largestContentfulPaintloadTime": "0",
+    "largestContentfulPaintrenderTime": "583",
+    "lcp_element": "\"\"<h2 class='a-size-mini a-spacing-none a-color-base s-line-clamp-3'></h2>\"\"",
+    "redirectStart": "0",
+    "redirectEnd": "0",
+    "fetchStart": "6",
+    "domainLookupStart": "6",
+    "connectStart": "11",
+    "requestStart": "42",
+    "responseStart": "82",
+    "domInteractive": "524",
+    "domComplete": "730",
+    "loadEventEnd": "739",
+    "SpeedIndex": "569",
+    "VisualComplete85": "594",
+    "PerceptualSpeedIndexProgress": [
+        {
+            "timestamp": "0",
+            "percent": "0"
+        },
+        {
+            "timestamp": "561",
+            "percent": "99"
+        },
+        {
+            "timestamp": "594",
+            "percent": "99"
+        },
+        {
+            "timestamp": "744",
+            "percent": "100"
+        },
+        {
+            "timestamp": "794",
+            "percent": "100"
+        },
+        {
+            "timestamp": "846",
+            "percent": "100"
+        },
+        {
+            "timestamp": "914",
+            "percent": "100"
+        }
+    ],
+    "ContentfulSpeedIndexProgress": [
+        {
+            "timestamp": "0",
+            "percent": "0"
+        },
+        {
+            "timestamp": "561",
+            "percent": "98"
+        },
+        {
+            "timestamp": "594",
+            "percent": "98"
+        },
+        {
+            "timestamp": "744",
+            "percent": "99"
+        },
+        {
+            "timestamp": "794",
+            "percent": "99"
+        },
+        {
+            "timestamp": "846",
+            "percent": "99"
+        },
+        {
+            "timestamp": "914",
+            "percent": "100"
+        }
+    ],
+    "VisualProgress": [
+        {
+            "timestamp": "0",
+            "percent": "0"
+        },
+        {
+            "timestamp": "561",
+            "percent": "84"
+        },
+        {
+            "timestamp": "594",
+            "percent": "99"
+        },
+        {
+            "timestamp": "744",
+            "percent": "99"
+        },
+        {
+            "timestamp": "794",
+            "percent": "99"
+        },
+        {
+            "timestamp": "846",
+            "percent": "99"
+        },
+        {
+            "timestamp": "914",
+            "percent": "100"
+        }
+    ]
+}

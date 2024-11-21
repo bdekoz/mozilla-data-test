@@ -1,0 +1,26 @@
+[
+  { 
+    "test": "<amazon-cold",
+    "side_by_side": "videos/amazon-cold-side-by-side.mp4",
+    "data":
+      { 
+        "chrome": {
+                  "date": "2024-11-14 7:00:00",
+                  "video":  "videos/amazon-cold-chrome.mp4",
+                  "filmstrip":  { 
+                                  "0":  "filmstrip/amazon-cold-chrome-0.png",
+                                  "250":  "filmstrip/amazon-cold-chrome-250.png",
+                                  "500":  "filmstrip/amazon-cold-chrome-500.png",
+                                  "750":  "filmstrip/amazon-cold-chrome-750.png"
+                  },
+                  "ContentfulSpeedIndex": 1400,
+                  "FCP":  100,
+                  "VisualProgress": [...]
+        },
+        "fenix": {
+          <... same as above for chrome ...>
+        }
+      } 
+  },
+  ...
+]

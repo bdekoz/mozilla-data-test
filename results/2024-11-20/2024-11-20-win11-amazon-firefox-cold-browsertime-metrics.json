@@ -1,0 +1,168 @@
+{
+    "paintTimingfirst-contentful-paint": "199",
+    "largestContentfulPaintloadTime": "341",
+    "largestContentfulPaintrenderTime": "397",
+    "lcp_element": "\"\"https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/ada75579-6fee-4ff2-9e07-287c73ffa111.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG\"\"",
+    "redirectStart": "0",
+    "redirectEnd": "0",
+    "fetchStart": "0",
+    "domainLookupStart": "2",
+    "connectStart": "2",
+    "requestStart": "6",
+    "responseStart": "7",
+    "domInteractive": "316",
+    "domComplete": "411",
+    "loadEventEnd": "431",
+    "SpeedIndex": "349",
+    "VisualComplete85": "400",
+    "PerceptualSpeedIndexProgress": [
+        {
+            "timestamp": "0",
+            "percent": "0"
+        },
+        {
+            "timestamp": "280",
+            "percent": "77"
+        },
+        {
+            "timestamp": "320",
+            "percent": "82"
+        },
+        {
+            "timestamp": "440",
+            "percent": "94"
+        },
+        {
+            "timestamp": "560",
+            "percent": "95"
+        },
+        {
+            "timestamp": "600",
+            "percent": "95"
+        },
+        {
+            "timestamp": "760",
+            "percent": "96"
+        },
+        {
+            "timestamp": "800",
+            "percent": "97"
+        },
+        {
+            "timestamp": "1120",
+            "percent": "99"
+        },
+        {
+            "timestamp": "1160",
+            "percent": "99"
+        },
+        {
+            "timestamp": "1200",
+            "percent": "99"
+        },
+        {
+            "timestamp": "1320",
+            "percent": "100"
+        }
+    ],
+    "ContentfulSpeedIndexProgress": [
+        {
+            "timestamp": "0",
+            "percent": "0"
+        },
+        {
+            "timestamp": "280",
+            "percent": "84"
+        },
+        {
+            "timestamp": "320",
+            "percent": "84"
+        },
+        {
+            "timestamp": "440",
+            "percent": "87"
+        },
+        {
+            "timestamp": "560",
+            "percent": "89"
+        },
+        {
+            "timestamp": "600",
+            "percent": "90"
+        },
+        {
+            "timestamp": "760",
+            "percent": "93"
+        },
+        {
+            "timestamp": "800",
+            "percent": "93"
+        },
+        {
+            "timestamp": "1120",
+            "percent": "98"
+        },
+        {
+            "timestamp": "1160",
+            "percent": "99"
+        },
+        {
+            "timestamp": "1200",
+            "percent": "100"
+        },
+        {
+            "timestamp": "1320",
+            "percent": "100"
+        }
+    ],
+    "VisualProgress": [
+        {
+            "timestamp": "0",
+            "percent": "0"
+        },
+        {
+            "timestamp": "280",
+            "percent": "67"
+        },
+        {
+            "timestamp": "320",
+            "percent": "87"
+        },
+        {
+            "timestamp": "440",
+            "percent": "95"
+        },
+        {
+            "timestamp": "560",
+            "percent": "95"
+        },
+        {
+            "timestamp": "600",
+            "percent": "95"
+        },
+        {
+            "timestamp": "760",
+            "percent": "95"
+        },
+        {
+            "timestamp": "800",
+            "percent": "95"
+        },
+        {
+            "timestamp": "1120",
+            "percent": "96"
+        },
+        {
+            "timestamp": "1160",
+            "percent": "96"
+        },
+        {
+            "timestamp": "1200",
+            "percent": "97"
+        },
+        {
+            "timestamp": "1320",
+            "percent": "100"
+        }
+    ]
+}

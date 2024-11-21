@@ -1,0 +1,662 @@
+[
+  { 
+    "test": "amazon",
+    "platform": "windows",
+    "side_by_side": "videos/amazon-windows-side-by-side.mp4",
+    "data":
+    {
+      "chrome": {
+        "date": "2024-11-13",
+        "video":  "results/2024-11-13-windows-chrome-amazon.mp4",
+        "filmstrip":  { 
+          "0"   : "filmstrip/amazon-windows-chrome_0001.png",
+          "100" : "filmstrip/amazon-windows-chrome_0002.png",
+          "200" : "filmstrip/amazon-windows-chrome_0003.png",
+          "300" : "filmstrip/amazon-windows-chrome_0004.png",
+          "400" : "filmstrip/amazon-windows-chrome_0005.png",
+          "500" : "filmstrip/amazon-windows-chrome_0006.png",
+          "600" : "filmstrip/amazon-windows-chrome_0007.png",
+          "700" : "filmstrip/amazon-windows-chrome_0008.png",
+          "800" : "filmstrip/amazon-windows-chrome_0009.png",
+          "900" : "filmstrip/amazon-windows-chrome_0010.png",
+          "1000" : "filmstrip/amazon-windows-chrome_0011.png"
+        },
+        "firstContentfulPaint": 232,
+        "largestContentfulPaint": 682,
+        "visualMetrics": {
+          "FirstVisualChange": 233,
+          "LastVisualChange": 867,
+          "SpeedIndex": 863,
+          "PerceptualSpeedIndex": 851,
+          "PerceptualSpeedIndexProgress": [
+            {
+              "timestamp": 0,
+              "percent": 0
+            },
+            {
+              "timestamp": 233,
+              "percent": 27
+            },
+            {
+              "timestamp": 633,
+              "percent": 73
+            },
+            {
+              "timestamp": 667,
+              "percent": 77
+            },
+            {
+              "timestamp": 700,
+              "percent": 81
+            },
+            {
+              "timestamp": 733,
+              "percent": 85
+            },
+            {
+              "timestamp": 867,
+              "percent": 100
+            }
+          ],
+          "ContentfulSpeedIndex": 584,
+          "ContentfulSpeedIndexProgress": [
+            {
+              "timestamp": 0,
+              "percent": 0
+            },
+            {
+              "timestamp": 233,
+              "percent": 39
+            },
+            {
+              "timestamp": 633,
+              "percent": 77
+            },
+            {
+              "timestamp": 667,
+              "percent": 77
+            },
+            {
+              "timestamp": 700,
+              "percent": 77
+            },
+            {
+              "timestamp": 733,
+              "percent": 77
+            },
+            {
+              "timestamp": 867,
+              "percent": 100
+            }
+          ],
+          "SpeedIndexProgress": [
+            {
+              "timestamp": 0,
+              "percent": 0
+            },
+            {
+              "timestamp": 233,
+              "percent": 0
+            },
+            {
+              "timestamp": 633,
+              "percent": 0
+            },
+            {
+              "timestamp": 667,
+              "percent": 1
+            },
+            {
+              "timestamp": 700,
+              "percent": 1
+            },
+            {
+              "timestamp": 733,
+              "percent": 2
+            },
+            {
+              "timestamp": 867,
+              "percent": 100
+            }
+          ],
+          "videoRecordingStart": 933,
+          "VisualReadiness": 634,
+          "VisualComplete85": 867,
+          "VisualComplete95": 867,
+          "VisualComplete99": 867
+        }
+      },
+      "firefox": {
+        "date": "2024-11-13",
+        "video":  "results/2024-11-13-windows-firefox-amazon.mp4",
+        "filmstrip":  { 
+          "0"   : "filmstrip/amazon-windows-firefox_0001.png",
+          "100" : "filmstrip/amazon-windows-firefox_0002.png",
+          "200" : "filmstrip/amazon-windows-firefox_0003.png",
+          "300" : "filmstrip/amazon-windows-firefox_0004.png",
+          "400" : "filmstrip/amazon-windows-firefox_0005.png",
+          "500" : "filmstrip/amazon-windows-firefox_0006.png",
+          "600" : "filmstrip/amazon-windows-firefox_0007.png",
+          "700" : "filmstrip/amazon-windows-firefox_0008.png",
+          "800" : "filmstrip/amazon-windows-firefox_0009.png",
+          "900" : "filmstrip/amazon-windows-firefox_0010.png",
+          "1000" : "filmstrip/amazon-windows-firefox_0011.png"
+        },
+        "firstContentfulPaint": 178,
+        "largestContentfulPaint": 229,
+        "visualMetrics": {
+          "FirstVisualChange": 333,
+          "LastVisualChange": 1200,
+          "SpeedIndex": 380,
+          "PerceptualSpeedIndex": 356,
+          "PerceptualSpeedIndexProgress": [
+            {
+              "timestamp": 0,
+              "percent": 0
+            },
+            {
+              "timestamp": 333,
+              "percent": 93
+            },
+            {
+              "timestamp": 367,
+              "percent": 95
+            },
+            {
+              "timestamp": 400,
+              "percent": 96
+            },
+            {
+              "timestamp": 433,
+              "percent": 97
+            },
+            {
+              "timestamp": 500,
+              "percent": 97
+            },
+            {
+              "timestamp": 767,
+              "percent": 98
+            },
+            {
+              "timestamp": 800,
+              "percent": 98
+            },
+            {
+              "timestamp": 833,
+              "percent": 98
+            },
+            {
+              "timestamp": 933,
+              "percent": 99
+            },
+            {
+              "timestamp": 967,
+              "percent": 99
+            },
+            {
+              "timestamp": 1033,
+              "percent": 99
+            },
+            {
+              "timestamp": 1067,
+              "percent": 99
+            },
+            {
+              "timestamp": 1200,
+              "percent": 100
+            }
+          ],
+          "ContentfulSpeedIndex": 355,
+          "ContentfulSpeedIndexProgress": [
+            {
+              "timestamp": 0,
+              "percent": 0
+            },
+            {
+              "timestamp": 333,
+              "percent": 93
+            },
+            {
+              "timestamp": 367,
+              "percent": 96
+            },
+            {
+              "timestamp": 400,
+              "percent": 96
+            },
+            {
+              "timestamp": 433,
+              "percent": 97
+            },
+            {
+              "timestamp": 500,
+              "percent": 97
+            },
+            {
+              "timestamp": 767,
+              "percent": 98
+            },
+            {
+              "timestamp": 800,
+              "percent": 98
+            },
+            {
+              "timestamp": 833,
+              "percent": 98
+            },
+            {
+              "timestamp": 933,
+              "percent": 99
+            },
+            {
+              "timestamp": 967,
+              "percent": 99
+            },
+            {
+              "timestamp": 1033,
+              "percent": 99
+            },
+            {
+              "timestamp": 1067,
+              "percent": 100
+            },
+            {
+              "timestamp": 1200,
+              "percent": 100
+            }
+          ],
+          "SpeedIndexProgress": [
+            {
+              "timestamp": 0,
+              "percent": 0
+            },
+            {
+              "timestamp": 333,
+              "percent": 75
+            },
+            {
+              "timestamp": 367,
+              "percent": 75
+            },
+            {
+              "timestamp": 400,
+              "percent": 96
+            },
+            {
+              "timestamp": 433,
+              "percent": 96
+            },
+            {
+              "timestamp": 500,
+              "percent": 96
+            },
+            {
+              "timestamp": 767,
+              "percent": 96
+            },
+            {
+              "timestamp": 800,
+              "percent": 96
+            },
+            {
+              "timestamp": 833,
+              "percent": 96
+            },
+            {
+              "timestamp": 933,
+              "percent": 96
+            },
+            {
+              "timestamp": 967,
+              "percent": 96
+            },
+            {
+              "timestamp": 1033,
+              "percent": 97
+            },
+            {
+              "timestamp": 1067,
+              "percent": 97
+            },
+            {
+              "timestamp": 1200,
+              "percent": 100
+            }
+          ],
+          "videoRecordingStart": 933,
+          "VisualReadiness": 867,
+          "VisualComplete85": 400,
+          "VisualComplete95": 400,
+          "VisualComplete99": 1200
+        }
+      }
+    } 
+  },
+  { 
+    "test": "amazon",
+    "platform": "android",
+    "side_by_side": "videos/amazon-android-side-by-side.mp4",
+    "data":
+    {
+      "chrome": {
+        "date": "2024-11-13",
+        "video":  "results/2024-11-13-windows-chrome-amazon.mp4",
+        "filmstrip":  {
+          "0":   "filmstrip/amazon-android-chrome_0001.png",
+          "100": "filmstrip/amazon-android-chrome_0002.png",
+          "200": "filmstrip/amazon-android-chrome_0003.png",
+          "300": "filmstrip/amazon-android-chrome_0004.png",
+          "400": "filmstrip/amazon-android-chrome_0005.png",
+          "500": "filmstrip/amazon-android-chrome_0006.png",
+          "600": "filmstrip/amazon-android-chrome_0007.png",
+          "700": "filmstrip/amazon-android-chrome_0008.png",
+          "800": "filmstrip/amazon-android-chrome_0009.png",
+          "900": "filmstrip/amazon-android-chrome_0010.png",
+          "1000": "filmstrip/amazon-android-chrome_0011.png",
+          "1100": "filmstrip/amazon-android-chrome_0012.png",
+          "1200": "filmstrip/amazon-android-chrome_0013.png"
+        },
+        "firstContentfulPaint": 555,
+        "largestContentfulPaint": 555,
+        "visualMetrics": {
+          "FirstVisualChange": 578,
+          "LastVisualChange": 913,
+          "SpeedIndex": 586,
+          "PerceptualSpeedIndex": 581,
+          "PerceptualSpeedIndexProgress": [
+            {
+              "timestamp": 0,
+              "percent": 0
+            },
+            {
+              "timestamp": 578,
+              "percent": 99
+            },
+            {
+              "timestamp": 611,
+              "percent": 99
+            },
+            {
+              "timestamp": 761,
+              "percent": 100
+            },
+            {
+              "timestamp": 811,
+              "percent": 100
+            },
+            {
+              "timestamp": 861,
+              "percent": 100
+            },
+            {
+              "timestamp": 913,
+              "percent": 100
+            }
+          ],
+          "ContentfulSpeedIndex": 587,
+          "ContentfulSpeedIndexProgress": [
+            {
+              "timestamp": 0,
+              "percent": 0
+            },
+            {
+              "timestamp": 578,
+              "percent": 98
+            },
+            {
+              "timestamp": 611,
+              "percent": 98
+            },
+            {
+              "timestamp": 761,
+              "percent": 99
+            },
+            {
+              "timestamp": 811,
+              "percent": 99
+            },
+            {
+              "timestamp": 861,
+              "percent": 99
+            },
+            {
+              "timestamp": 913,
+              "percent": 100
+            }
+          ],
+          "SpeedIndexProgress": [
+            {
+              "timestamp": 0,
+              "percent": 0
+            },
+            {
+              "timestamp": 578,
+              "percent": 84
+            },
+            {
+              "timestamp": 611,
+              "percent": 99
+            },
+            {
+              "timestamp": 761,
+              "percent": 99
+            },
+            {
+              "timestamp": 811,
+              "percent": 99
+            },
+            {
+              "timestamp": 861,
+              "percent": 99
+            },
+            {
+              "timestamp": 913,
+              "percent": 100
+            }
+          ],
+          "videoRecordingStart": 1884,
+          "VisualReadiness": 335,
+          "VisualComplete85": 611,
+          "VisualComplete95": 611,
+          "VisualComplete99": 611
+        }
+      },
+      "firefox": {
+        "date": "2024-11-11",
+        "video":  "results/2024-11-11-android-firefox-amazon.mp4",
+        "filmstrip":  {
+          "0": "filmstrip/amazon-android-firefox_0001.png",
+          "100": "filmstrip/amazon-android-firefox_0002.png",
+          "200": "filmstrip/amazon-android-firefox_0003.png",
+          "300": "filmstrip/amazon-android-firefox_0004.png",
+          "400": "filmstrip/amazon-android-firefox_0005.png",
+          "500": "filmstrip/amazon-android-firefox_0006.png",
+          "600": "filmstrip/amazon-android-firefox_0007.png",
+          "700": "filmstrip/amazon-android-firefox_0008.png",
+          "800": "filmstrip/amazon-android-firefox_0009.png",
+          "900": "filmstrip/amazon-android-firefox_0010.png",
+          "1000": "filmstrip/amazon-android-firefox_0011.png",
+          "1100": "filmstrip/amazon-android-firefox_0012.png",
+          "1200": "filmstrip/amazon-android-firefox_0013.png"
+        },
+        "firstContentfulPaint": 325,
+        "largestContentfulPaint": 481,
+        "visualMetrics": {
+          "FirstVisualChange": 390,
+          "LastVisualChange": 1065,
+          "SpeedIndex": 439,
+          "PerceptualSpeedIndex": 420,
+          "PerceptualSpeedIndexProgress": [
+            {
+              "timestamp": 0,
+              "percent": 0
+            },
+            {
+              "timestamp": 390,
+              "percent": 92
+            },
+            {
+              "timestamp": 407,
+              "percent": 93
+            },
+            {
+              "timestamp": 506,
+              "percent": 98
+            },
+            {
+              "timestamp": 556,
+              "percent": 98
+            },
+            {
+              "timestamp": 689,
+              "percent": 98
+            },
+            {
+              "timestamp": 889,
+              "percent": 99
+            },
+            {
+              "timestamp": 931,
+              "percent": 99
+            },
+            {
+              "timestamp": 956,
+              "percent": 99
+            },
+            {
+              "timestamp": 972,
+              "percent": 99
+            },
+            {
+              "timestamp": 989,
+              "percent": 99
+            },
+            {
+              "timestamp": 1039,
+              "percent": 100
+            },
+            {
+              "timestamp": 1065,
+              "percent": 100
+            }
+          ],
+          "ContentfulSpeedIndex": 416,
+          "ContentfulSpeedIndexProgress": [
+            {
+              "timestamp": 0,
+              "percent": 0
+            },
+            {
+              "timestamp": 390,
+              "percent": 93
+            },
+            {
+              "timestamp": 407,
+              "percent": 94
+            },
+            {
+              "timestamp": 506,
+              "percent": 96
+            },
+            {
+              "timestamp": 556,
+              "percent": 96
+            },
+            {
+              "timestamp": 689,
+              "percent": 97
+            },
+            {
+              "timestamp": 889,
+              "percent": 97
+            },
+            {
+              "timestamp": 931,
+              "percent": 97
+            },
+            {
+              "timestamp": 956,
+              "percent": 98
+            },
+            {
+              "timestamp": 972,
+              "percent": 98
+            },
+            {
+              "timestamp": 989,
+              "percent": 98
+            },
+            {
+              "timestamp": 1039,
+              "percent": 99
+            },
+            {
+              "timestamp": 1065,
+              "percent": 100
+            }
+          ],
+          "SpeedIndexProgress": [
+            {
+              "timestamp": 0,
+              "percent": 0
+            },
+            {
+              "timestamp": 390,
+              "percent": 66
+            },
+            {
+              "timestamp": 407,
+              "percent": 67
+            },
+            {
+              "timestamp": 506,
+              "percent": 98
+            },
+            {
+              "timestamp": 556,
+              "percent": 98
+            },
+            {
+              "timestamp": 689,
+              "percent": 98
+            },
+            {
+              "timestamp": 889,
+              "percent": 98
+            },
+            {
+              "timestamp": 931,
+              "percent": 98
+            },
+            {
+              "timestamp": 956,
+              "percent": 96
+            },
+            {
+              "timestamp": 972,
+              "percent": 99
+            },
+            {
+              "timestamp": 989,
+              "percent": 99
+            },
+            {
+              "timestamp": 1039,
+              "percent": 99
+            },
+            {
+              "timestamp": 1065,
+              "percent": 100
+            }
+          ],
+          "videoRecordingStart": 1892,
+          "VisualReadiness": 675,
+          "VisualComplete85": 506,
+          "VisualComplete95": 506,
+          "VisualComplete99": 972
+        }
+      }
+    }
+  }
+]

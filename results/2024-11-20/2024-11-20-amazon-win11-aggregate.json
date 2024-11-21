@@ -1,0 +1,291 @@
+{
+  "test": "amazon",
+  "platform": "win11",
+  "date": "2024-11-20",
+  "video_side_by_side": "2024-11-20-win11-amazon-side-by-side.mp4",
+  "firefox": {
+    "video": {
+      "file": "2024-11-20-win11-amazon-firefox.mp4",
+      "iteration": "8"
+    },
+    "filmstrip": {
+      "0.25": "2024-11-20-win11-amazon-firefox_0.25.png",
+      "0.50": "2024-11-20-win11-amazon-firefox_0.50.png",
+      "0.75": "2024-11-20-win11-amazon-firefox_0.75.png",
+      "1.00": "2024-11-20-win11-amazon-firefox_1.00.png",
+      "1.25": "2024-11-20-win11-amazon-firefox_1.25.png",
+      "1.50": "2024-11-20-win11-amazon-firefox_1.50.png",
+      "1.75": "2024-11-20-win11-amazon-firefox_1.75.png",
+      "2.00": "2024-11-20-win11-amazon-firefox_2.00.png",
+      "2.25": "2024-11-20-win11-amazon-firefox_2.25.png",
+      "2.50": "2024-11-20-win11-amazon-firefox_2.50.png",
+      "2.75": "2024-11-20-win11-amazon-firefox_2.75.png",
+      "3.00": "2024-11-20-win11-amazon-firefox_3.00.png",
+      "3.25": "2024-11-20-win11-amazon-firefox_3.25.png"
+    },
+    "metrics": {
+      "paintTimingfirst-contentful-paint": "199",
+      "largestContentfulPaintloadTime": "341",
+      "largestContentfulPaintrenderTime": "397",
+      "lcp_element": "\"\"https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/ada75579-6fee-4ff2-9e07-287c73ffa111.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG\"\"",
+      "redirectStart": "0",
+      "redirectEnd": "0",
+      "fetchStart": "0",
+      "domainLookupStart": "2",
+      "connectStart": "2",
+      "requestStart": "6",
+      "responseStart": "7",
+      "domInteractive": "316",
+      "domComplete": "411",
+      "loadEventEnd": "431",
+      "SpeedIndex": "349",
+      "VisualComplete85": "400",
+      "PerceptualSpeedIndexProgress": [
+        {
+          "timestamp": "0",
+          "percent": "0"
+        },
+        {
+          "timestamp": "280",
+          "percent": "77"
+        },
+        {
+          "timestamp": "320",
+          "percent": "82"
+        },
+        {
+          "timestamp": "440",
+          "percent": "94"
+        },
+        {
+          "timestamp": "560",
+          "percent": "95"
+        },
+        {
+          "timestamp": "600",
+          "percent": "95"
+        },
+        {
+          "timestamp": "760",
+          "percent": "96"
+        },
+        {
+          "timestamp": "800",
+          "percent": "97"
+        },
+        {
+          "timestamp": "1120",
+          "percent": "99"
+        },
+        {
+          "timestamp": "1160",
+          "percent": "99"
+        },
+        {
+          "timestamp": "1200",
+          "percent": "99"
+        },
+        {
+          "timestamp": "1320",
+          "percent": "100"
+        }
+      ],
+      "ContentfulSpeedIndexProgress": [
+        {
+          "timestamp": "0",
+          "percent": "0"
+        },
+        {
+          "timestamp": "280",
+          "percent": "84"
+        },
+        {
+          "timestamp": "320",
+          "percent": "84"
+        },
+        {
+          "timestamp": "440",
+          "percent": "87"
+        },
+        {
+          "timestamp": "560",
+          "percent": "89"
+        },
+        {
+          "timestamp": "600",
+          "percent": "90"
+        },
+        {
+          "timestamp": "760",
+          "percent": "93"
+        },
+        {
+          "timestamp": "800",
+          "percent": "93"
+        },
+        {
+          "timestamp": "1120",
+          "percent": "98"
+        },
+        {
+          "timestamp": "1160",
+          "percent": "99"
+        },
+        {
+          "timestamp": "1200",
+          "percent": "100"
+        },
+        {
+          "timestamp": "1320",
+          "percent": "100"
+        }
+      ],
+      "VisualProgress": [
+        {
+          "timestamp": "0",
+          "percent": "0"
+        },
+        {
+          "timestamp": "280",
+          "percent": "67"
+        },
+        {
+          "timestamp": "320",
+          "percent": "87"
+        },
+        {
+          "timestamp": "440",
+          "percent": "95"
+        },
+        {
+          "timestamp": "560",
+          "percent": "95"
+        },
+        {
+          "timestamp": "600",
+          "percent": "95"
+        },
+        {
+          "timestamp": "760",
+          "percent": "95"
+        },
+        {
+          "timestamp": "800",
+          "percent": "95"
+        },
+        {
+          "timestamp": "1120",
+          "percent": "96"
+        },
+        {
+          "timestamp": "1160",
+          "percent": "96"
+        },
+        {
+          "timestamp": "1200",
+          "percent": "97"
+        },
+        {
+          "timestamp": "1320",
+          "percent": "100"
+        }
+      ]
+    }
+  },
+  "chrome": {
+    "video": {
+      "file": "2024-11-20-win11-amazon-chrome.mp4",
+      "iteration": "20"
+    },
+    "filmstrip": {
+      "0.25": "2024-11-20-win11-amazon-chrome_0.25.png",
+      "0.50": "2024-11-20-win11-amazon-chrome_0.50.png",
+      "0.75": "2024-11-20-win11-amazon-chrome_0.75.png",
+      "1.00": "2024-11-20-win11-amazon-chrome_1.00.png",
+      "1.25": "2024-11-20-win11-amazon-chrome_1.25.png",
+      "1.50": "2024-11-20-win11-amazon-chrome_1.50.png",
+      "1.75": "2024-11-20-win11-amazon-chrome_1.75.png",
+      "2.00": "2024-11-20-win11-amazon-chrome_2.00.png",
+      "2.25": "2024-11-20-win11-amazon-chrome_2.25.png",
+      "2.50": "2024-11-20-win11-amazon-chrome_2.50.png",
+      "2.75": "2024-11-20-win11-amazon-chrome_2.75.png",
+      "3.00": "2024-11-20-win11-amazon-chrome_3.00.png",
+      "3.25": "2024-11-20-win11-amazon-chrome_3.25.png",
+      "3.50": "2024-11-20-win11-amazon-chrome_3.50.png",
+      "3.75": "2024-11-20-win11-amazon-chrome_3.75.png",
+      "4.00": "2024-11-20-win11-amazon-chrome_4.00.png",
+      "4.25": "2024-11-20-win11-amazon-chrome_4.25.png",
+      "4.50": "2024-11-20-win11-amazon-chrome_4.50.png",
+      "4.75": "2024-11-20-win11-amazon-chrome_4.75.png",
+      "5.00": "2024-11-20-win11-amazon-chrome_5.00.png",
+      "5.25": "2024-11-20-win11-amazon-chrome_5.25.png",
+      "5.50": "2024-11-20-win11-amazon-chrome_5.50.png",
+      "5.75": "2024-11-20-win11-amazon-chrome_5.75.png",
+      "6.00": "2024-11-20-win11-amazon-chrome_6.00.png",
+      "6.25": "2024-11-20-win11-amazon-chrome_6.25.png",
+      "6.50": "2024-11-20-win11-amazon-chrome_6.50.png",
+      "6.75": "2024-11-20-win11-amazon-chrome_6.75.png",
+      "7.00": "2024-11-20-win11-amazon-chrome_7.00.png"
+    },
+    "metrics": {
+      "paintTimingfirst-contentful-paint": "333",
+      "largestContentfulPaintloadTime": "104",
+      "largestContentfulPaintrenderTime": "348",
+      "lcp_element": "\"\"https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/ada75579-6fee-4ff2-9e07-287c73ffa111.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG\"\"",
+      "redirectStart": "0",
+      "redirectEnd": "0",
+      "fetchStart": "0",
+      "domainLookupStart": "0",
+      "connectStart": "1",
+      "requestStart": "7",
+      "responseStart": "11",
+      "domInteractive": "270",
+      "domComplete": "307",
+      "loadEventEnd": "353",
+      "SpeedIndex": "366",
+      "VisualComplete85": "366",
+      "PerceptualSpeedIndexProgress": [
+        {
+          "timestamp": "0",
+          "percent": "0"
+        },
+        {
+          "timestamp": "266",
+          "percent": "72"
+        },
+        {
+          "timestamp": "366",
+          "percent": "100"
+        }
+      ],
+      "ContentfulSpeedIndexProgress": [
+        {
+          "timestamp": "0",
+          "percent": "0"
+        },
+        {
+          "timestamp": "266",
+          "percent": "74"
+        },
+        {
+          "timestamp": "366",
+          "percent": "100"
+        }
+      ],
+      "VisualProgress": [
+        {
+          "timestamp": "0",
+          "percent": "0"
+        },
+        {
+          "timestamp": "266",
+          "percent": "0"
+        },
+        {
+          "timestamp": "366",
+          "percent": "100"
+        }
+      ]
+    }
+  }
+}
